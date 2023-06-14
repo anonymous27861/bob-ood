@@ -1,6 +1,6 @@
-# BoB-OOD
+# BoB-OOD-Classification
 
-This repository is the official implementation of <strong>Out-of-Distribution Generalization</strong> task in the [*Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks*](https://github.com/anonymous27861/Battle-of-the-Backbones).
+This repository is the official implementation of <strong>Out-of-Distribution Classification</strong> task in the [*Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks*](https://github.com/anonymous27861/Battle-of-the-Backbones).
 
 ## Dependencies
 
